@@ -1,0 +1,4 @@
+# Google OAuth secrets
+client_secret.json
+clientSecretFile/
+token.pkl
