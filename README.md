@@ -44,9 +44,9 @@ Struktura projektu
 Invoice/
 │
 ├── main.py                 # Główny skrypt
-├── gmail_oauth.py          # Skrypt obsługujący OAuth (jeśli osobno)
+├── gmail_oauth.py          # Skrypt  obsługujący OAuth (jeśli osobno)
 ├── clientSecretFile/
-│   └── client_secret.json  # Plik z OAuth 2.0 (NIE wrzucać do repo!)
+│   └── client_secret.json  # Plik z  OAuth 2.0 (NIE wrzucać do repo!)
 ├── invoices/               # Folder docelowy na pobrane PDF-y
 ├── logs/
 │   ├── processed_uids.txt  # UID-y przetworzonych maili
